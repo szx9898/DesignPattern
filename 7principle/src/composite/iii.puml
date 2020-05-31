@@ -1,0 +1,8 @@
+@startuml
+
+class Person{
+    ~id
+    study :
+}
+Person : equals()
+@enduml
